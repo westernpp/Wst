@@ -1,0 +1,154 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: main - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\TING\AppData\Local\Temp\RSPEB67.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c"
+]
+Creating command line "cl.exe @C:\Users\TING\AppData\Local\Temp\RSPEB67.tmp" 
+<h3>Output Window</h3>
+Compiling...
+main.c
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(125) : error C2275: 'node_1' : illegal use of this type as an expression
+        D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(21) : see declaration of 'node_1'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(125) : error C2065: 'pRear' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(126) : warning C4047: '=' : 'int ' differs in levels of indirection from 'struct LoginDataNode *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(129) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(130) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(134) : error C2065: 'temp_userName' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(136) : error C2065: 'temp_userKey' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(143) : error C2275: 'node_1' : illegal use of this type as an expression
+        D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(21) : see declaration of 'node_1'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(143) : error C2065: 'newNode' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(146) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(149) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(154) : error C2223: left of '->userData' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(154) : error C2223: left of '->userData' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(198) : warning C4033: 'Init_LinkList' must return a value
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(201) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(204) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(209) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(216) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(218) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(225) : error C2223: left of '->name' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(227) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(229) : error C2223: left of '->gender' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(231) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(233) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(235) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(237) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(239) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(241) : error C2065: 'n' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(248) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(292) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(293) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(304) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(305) : error C2065: 'oldVal' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(306) : error C2065: 'pCurrent' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(306) : warning C4047: '!=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(308) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(308) : warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int '
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(308) : warning C4024: 'strcmp' : different types for formal and actual parameter 1
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(308) : error C2198: 'strcmp' : too few actual parameters
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(311) : error C2065: 'prev' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(312) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(315) : warning C4047: '==' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(320) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(321) : error C2065: 'x' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(336) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(337) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(339) : error C2223: left of '->name' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(341) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(343) : error C2223: left of '->gender' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(345) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(347) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(349) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(351) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(353) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(355) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(358) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(359) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(382) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(390) : warning C4047: '!=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(394) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(395) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(396) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(397) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(398) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(400) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(402) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(403) : error C2223: left of '->name' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(404) : error C2223: left of '->gender' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(405) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(406) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(407) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(408) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(409) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(411) : error C2065: 'aver' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(413) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(431) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(432) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(434) : error C2065: 'num' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(436) : warning C4047: '!=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(440) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(440) : warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int '
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(440) : warning C4024: 'strcmp' : different types for formal and actual parameter 1
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(440) : error C2198: 'strcmp' : too few actual parameters
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(444) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(445) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(446) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(447) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(448) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(450) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(458) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(459) : error C2223: left of '->name' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(460) : error C2223: left of '->gender' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(461) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(462) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(463) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(464) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(465) : error C2223: left of '->score' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(472) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(475) : warning C4047: '==' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(480) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(483) : warning C4013: 'menu' undefined; assuming extern returning int
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(510) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(514) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(515) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(517) : warning C4047: '!=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(519) : error C2223: left of '->num' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(519) : warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int '
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(519) : warning C4024: 'strcmp' : different types for formal and actual parameter 1
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(519) : error C2198: 'strcmp' : too few actual parameters
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(525) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(528) : warning C4047: '==' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(531) : warning C4098: 'RemoveByValue_LinkList' : 'void' function returning a value
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(537) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(537) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(539) : warning C4022: 'free' : pointer mismatch for actual parameter 1
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(540) : warning C4047: '=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(568) : error C2143: syntax error : missing ';' before 'type'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(569) : warning C4047: '=' : 'int ' differs in levels of indirection from 'struct LinkNode *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(570) : warning C4047: '!=' : 'int ' differs in levels of indirection from 'void *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(573) : error C2223: left of '->next' must point to struct/union
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(575) : warning C4022: 'free' : pointer mismatch for actual parameter 1
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(577) : warning C4047: '=' : 'int ' differs in levels of indirection from 'struct LinkNode *'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(591) : error C2275: 'FILE' : illegal use of this type as an expression
+        d:\vc98\include\stdio.h(156) : see declaration of 'FILE'
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(591) : error C2065: 'f' : undeclared identifier
+D:\桌面\学生信息管理系统\学生信息管理系统源码\main.c(591) : fatal error C1003: error count exceeds 100; stopping compilation
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+main.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
