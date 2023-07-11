@@ -1,0 +1,42 @@
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\桌面\c#课设\学生成绩管理系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form13.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form14.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form15.resources
+D:\桌面\c#课设\学生成绩管理系统 - 副本\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form16.resources
